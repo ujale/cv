@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>My Contact details</title>
+</head>
+<body>
+<p>My contact details</p>
+<p>123, parksville avenue</p>
+<p>123456844</p><hr>
+<form class="" action="index.html" method="post" encotype="text/plain">
+</form>
+<label>Your Name</label><br>
+<input type="text" name="" value=""><br>
+<label>Your Email</label>
+<input type="email" name="your email" value=""><br>
+<label>message</label>
+<input type="message" name="" value="">
+<textarea name="yourmessage" rows="8" cols="80"></textarea><br>
+</form>
+</body>
+</html>
